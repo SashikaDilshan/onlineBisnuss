@@ -1,0 +1,19 @@
+D:\Visual studio\My new item add\My new item add\bin\Debug\net6.0-windows\My new item add.exe
+D:\Visual studio\My new item add\My new item add\bin\Debug\net6.0-windows\My new item add.deps.json
+D:\Visual studio\My new item add\My new item add\bin\Debug\net6.0-windows\My new item add.runtimeconfig.json
+D:\Visual studio\My new item add\My new item add\bin\Debug\net6.0-windows\My new item add.dll
+D:\Visual studio\My new item add\My new item add\bin\Debug\net6.0-windows\My new item add.pdb
+D:\Visual studio\My new item add\My new item add\obj\Debug\net6.0-windows\My new item add.csproj.AssemblyReference.cache
+D:\Visual studio\My new item add\My new item add\obj\Debug\net6.0-windows\My_new_item_add.Form1.resources
+D:\Visual studio\My new item add\My new item add\obj\Debug\net6.0-windows\My new item add.csproj.GenerateResource.cache
+D:\Visual studio\My new item add\My new item add\obj\Debug\net6.0-windows\My new item add.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\My new item add\My new item add\obj\Debug\net6.0-windows\My new item add.AssemblyInfoInputs.cache
+D:\Visual studio\My new item add\My new item add\obj\Debug\net6.0-windows\My new item add.AssemblyInfo.cs
+D:\Visual studio\My new item add\My new item add\obj\Debug\net6.0-windows\My new item add.csproj.CoreCompileInputs.cache
+D:\Visual studio\My new item add\My new item add\obj\Debug\net6.0-windows\My new item add.dll
+D:\Visual studio\My new item add\My new item add\obj\Debug\net6.0-windows\refint\My new item add.dll
+D:\Visual studio\My new item add\My new item add\obj\Debug\net6.0-windows\My new item add.pdb
+D:\Visual studio\My new item add\My new item add\obj\Debug\net6.0-windows\My new item add.genruntimeconfig.cache
+D:\Visual studio\My new item add\My new item add\obj\Debug\net6.0-windows\ref\My new item add.dll
+D:\Visual studio\My new item add\My new item add\obj\Debug\net6.0-windows\My_new_item_add.Dashbord.resources
+D:\Visual studio\My new item add\My new item add\obj\Debug\net6.0-windows\My_new_item_add.Properties.Resources.resources
